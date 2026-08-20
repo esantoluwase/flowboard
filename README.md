@@ -1,71 +1,105 @@
-# FlowBoard — Project Management
+# FlowBoard
 
-A lightweight project management web application built as a portfolio demonstration project.
+### Lightweight Project Management Web Application
 
-## Purpose
+FlowBoard is a modern project management web application designed to help teams organize projects, manage tasks, track progress, and visualize workflows.
 
-FlowBoard demonstrates the ability to build a functional project management tool that covers:
+This project was created as a professional proof-of-work project to demonstrate **digital project management, product thinking, workflow design, UX, and web development capabilities.**
 
-- Project Management
-- Product Thinking
-- Workflow Design
-- Task Management
-- Web Development
-- UX Design
-- Team Collaboration Concepts
+---
 
-## Technologies
+## 🚀 Live Demo
+
+**[Open FlowBoard](https://esantoluwase.github.io/flowboard/)**
+
+---
+
+## ✨ Features
+
+- 📊 Project dashboard
+- 📋 Kanban project board
+- ➕ Create tasks
+- ✏️ Edit tasks
+- 🗑️ Delete tasks
+- 🔄 Drag-and-drop task workflow
+- 🔎 Task search
+- 🎯 Priority filtering
+- 👥 Assignee filtering
+- 📌 Status filtering
+- 📈 Project progress tracking
+- 👤 Team management
+- 📊 Project reports
+- 🌙 Dark mode
+- 🔔 Notification preferences
+- 💾 LocalStorage data persistence
+- 📱 Responsive mobile interface
+
+---
+
+## 🔄 Workflow
+
+FlowBoard organizes work through a simple project workflow:
+
+**Backlog → To Do → In Progress → Review → Done**
+
+This makes it easier for teams to understand what needs to be done, what is currently being worked on, and what has been completed.
+
+---
+
+## 🧠 Project Goals
+
+The project was designed to demonstrate practical understanding of:
+
+- Digital project management
+- Product development
+- Workflow design
+- Task management
+- User experience
+- Responsive web development
+- Frontend application logic
+
+---
+
+## 🛠️ Technologies
 
 - HTML5
-- CSS3 (custom properties, grid, flexbox, animations)
-- Vanilla JavaScript (no frameworks)
-- LocalStorage (data persistence)
+- CSS3
+- JavaScript
+- LocalStorage
 
-## Features
+No backend or paid API is required for the current version.
 
-- **Dashboard** – Overview of projects, tasks, and deadlines
-- **Project Management** – Create and organize projects with progress tracking
-- **Kanban Board** – Drag and drop tasks between columns (Backlog → Done)
-- **Task Management** – Add, edit, delete, and move tasks
-- **Task Details** – View full task information with edit/delete options
-- **My Tasks** – View tasks assigned to the current user
-- **Team View** – See team members and their workload
-- **Reports** – Project analytics and task breakdown
-- **Settings** – Theme toggle (Light/Dark) and notification preferences
-- **Search** – Global task search within projects
-- **Filters** – Filter tasks by priority, assignee, and status
-- **LocalStorage** – All data persists across browser refreshes
-- **Responsive** – Works on desktop, tablet, and mobile
-- **Accessible** – Semantic HTML, keyboard navigation, ARIA labels
+---
 
-## Developer
+## 📱 Responsive Design
+
+FlowBoard is designed to work across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
+
+The interface adapts its navigation, dashboard and Kanban workflow for smaller screens.
+
+---
+
+## 👨‍💻 Developer
 
 **Esan Toluwase Victor**
 
-- Web Developer | Digital Project Professional | AI & EdTech Builder | Founder
-- Computer Science student
-- Founder & CEO of Prova Technologies
+Web Developer • Digital Project Professional • AI & EdTech Builder • Founder
 
-## View Live
+---
 
-[https://esantoluwase.github.io/flowboard/](https://esantoluwase.github.io/flowboard/)
+## 📌 Portfolio Project
 
-## Setup
+FlowBoard is a **portfolio demonstration project** created to showcase project management, product design and web development capabilities.
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. For deployment, push to GitHub Pages
+The project does not represent a production SaaS platform or claim real-world users or business metrics.
 
-## Data Persistence
+---
 
-All tasks and projects are stored in `localStorage`. Changes persist across browser refreshes.
+## 📄 License
 
-## Notes
-
-- FlowBoard is a portfolio demonstration project created to showcase project management, product design and web development capabilities.
-- All team members and tasks are fictional demonstration data.
-- No real companies, users, or revenue statistics are implied.
-
-## License
-
-This project is for portfolio purposes only.
+This project is available for educational and portfolio purposes.
